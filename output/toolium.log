@@ -1,0 +1,52 @@
+DEBUG   2020-12-22 15:12:40,694 [config_parser] Reading properties from file: /Users/hackerman/Downloads/toolium-examples-master/web_behave/conf/properties.cfg
+DEBUG   2020-12-22 15:12:40,694 [config_parser] Properties config file not found: /Users/hackerman/Downloads/toolium-examples-master/web_behave/conf/local-properties.cfg
+INFO    2020-12-22 15:12:40,695 [config_driver] Creating local driver (type = safari)
+DEBUG   2020-12-22 15:12:41,709 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:59159
+DEBUG   2020-12-22 15:12:42,271 [connectionpool] http://127.0.0.1:59159 "POST /session HTTP/1.1" 200 516
+DEBUG   2020-12-22 15:12:42,287 [connectionpool] http://127.0.0.1:59159 "POST /session/9EA684CC-031B-45C6-AD02-73B62541CBE0/window/rect HTTP/1.1" 200 49
+DEBUG   2020-12-22 15:12:42,288 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2020-12-22 15:12:42,301 [connectionpool] http://127.0.0.1:59159 "POST /session/9EA684CC-031B-45C6-AD02-73B62541CBE0/window/maximize HTTP/1.1" 200 50
+DEBUG   2020-12-22 15:12:42,304 [connectionpool] http://127.0.0.1:59159 "GET /session/9EA684CC-031B-45C6-AD02-73B62541CBE0/window/rect HTTP/1.1" 200 50
+DEBUG   2020-12-22 15:12:42,304 [driver_wrapper] Window size: 1440 x 806
+DEBUG   2020-12-22 15:12:42,305 [connectionpool] http://127.0.0.1:59159 "POST /session/9EA684CC-031B-45C6-AD02-73B62541CBE0/timeouts HTTP/1.1" 200 14
+INFO    2020-12-22 15:12:42,306 [environment] Running new scenario: Submit Order (DDT)
+INFO    2020-12-22 15:12:45,053 [environment] The scenario 'Submit Order (DDT)' has passed
+DEBUG   2020-12-22 15:12:45,068 [config_parser] Reading properties from file: /Users/hackerman/Downloads/toolium-examples-master/web_behave/conf/properties.cfg
+DEBUG   2020-12-22 15:12:45,069 [config_parser] Properties config file not found: /Users/hackerman/Downloads/toolium-examples-master/web_behave/conf/local-properties.cfg
+INFO    2020-12-22 15:12:45,069 [config_driver] Creating local driver (type = safari)
+DEBUG   2020-12-22 15:12:46,084 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:59170
+DEBUG   2020-12-22 15:12:46,701 [connectionpool] http://127.0.0.1:59170 "POST /session HTTP/1.1" 200 516
+DEBUG   2020-12-22 15:12:46,708 [connectionpool] http://127.0.0.1:59170 "POST /session/8BF88801-073C-4DF2-859C-1A681DA004D5/window/rect HTTP/1.1" 200 49
+DEBUG   2020-12-22 15:12:46,709 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2020-12-22 15:12:46,714 [connectionpool] http://127.0.0.1:59170 "POST /session/8BF88801-073C-4DF2-859C-1A681DA004D5/window/maximize HTTP/1.1" 200 50
+DEBUG   2020-12-22 15:12:46,716 [connectionpool] http://127.0.0.1:59170 "GET /session/8BF88801-073C-4DF2-859C-1A681DA004D5/window/rect HTTP/1.1" 200 50
+DEBUG   2020-12-22 15:12:46,716 [driver_wrapper] Window size: 1440 x 806
+DEBUG   2020-12-22 15:12:46,718 [connectionpool] http://127.0.0.1:59170 "POST /session/8BF88801-073C-4DF2-859C-1A681DA004D5/timeouts HTTP/1.1" 200 14
+INFO    2020-12-22 15:12:46,719 [environment] Running new scenario: Create a vehicle from the options
+INFO    2020-12-22 15:12:47,718 [environment] The scenario 'Create a vehicle from the options' has passed
+DEBUG   2020-12-22 15:12:47,727 [config_parser] Reading properties from file: /Users/hackerman/Downloads/toolium-examples-master/web_behave/conf/properties.cfg
+DEBUG   2020-12-22 15:12:47,728 [config_parser] Properties config file not found: /Users/hackerman/Downloads/toolium-examples-master/web_behave/conf/local-properties.cfg
+INFO    2020-12-22 15:12:47,728 [config_driver] Creating local driver (type = safari)
+DEBUG   2020-12-22 15:12:48,744 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:59181
+DEBUG   2020-12-22 15:12:49,336 [connectionpool] http://127.0.0.1:59181 "POST /session HTTP/1.1" 200 516
+DEBUG   2020-12-22 15:12:49,342 [connectionpool] http://127.0.0.1:59181 "POST /session/7058D867-CC09-4B57-B2C1-11DF15DE775B/window/rect HTTP/1.1" 200 49
+DEBUG   2020-12-22 15:12:49,343 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2020-12-22 15:12:49,350 [connectionpool] http://127.0.0.1:59181 "POST /session/7058D867-CC09-4B57-B2C1-11DF15DE775B/window/maximize HTTP/1.1" 200 50
+DEBUG   2020-12-22 15:12:49,353 [connectionpool] http://127.0.0.1:59181 "GET /session/7058D867-CC09-4B57-B2C1-11DF15DE775B/window/rect HTTP/1.1" 200 50
+DEBUG   2020-12-22 15:12:49,353 [driver_wrapper] Window size: 1440 x 806
+DEBUG   2020-12-22 15:12:49,355 [connectionpool] http://127.0.0.1:59181 "POST /session/7058D867-CC09-4B57-B2C1-11DF15DE775B/timeouts HTTP/1.1" 200 14
+INFO    2020-12-22 15:12:49,356 [environment] Running new scenario: Change the vehicle from the options
+INFO    2020-12-22 15:12:50,294 [environment] The scenario 'Change the vehicle from the options' has passed
+DEBUG   2020-12-22 15:12:50,305 [config_parser] Reading properties from file: /Users/hackerman/Downloads/toolium-examples-master/web_behave/conf/properties.cfg
+DEBUG   2020-12-22 15:12:50,305 [config_parser] Properties config file not found: /Users/hackerman/Downloads/toolium-examples-master/web_behave/conf/local-properties.cfg
+INFO    2020-12-22 15:12:50,306 [config_driver] Creating local driver (type = safari)
+DEBUG   2020-12-22 15:12:51,321 [connectionpool] Starting new HTTP connection (1): 127.0.0.1:59192
+DEBUG   2020-12-22 15:12:51,886 [connectionpool] http://127.0.0.1:59192 "POST /session HTTP/1.1" 200 516
+DEBUG   2020-12-22 15:12:51,902 [connectionpool] http://127.0.0.1:59192 "POST /session/EDF6FCC9-044E-4F14-9014-962E7D22B896/window/rect HTTP/1.1" 200 49
+DEBUG   2020-12-22 15:12:51,902 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2020-12-22 15:12:51,907 [connectionpool] http://127.0.0.1:59192 "POST /session/EDF6FCC9-044E-4F14-9014-962E7D22B896/window/maximize HTTP/1.1" 200 50
+DEBUG   2020-12-22 15:12:51,915 [connectionpool] http://127.0.0.1:59192 "GET /session/EDF6FCC9-044E-4F14-9014-962E7D22B896/window/rect HTTP/1.1" 200 50
+DEBUG   2020-12-22 15:12:51,915 [driver_wrapper] Window size: 1440 x 806
+DEBUG   2020-12-22 15:12:51,917 [connectionpool] http://127.0.0.1:59192 "POST /session/EDF6FCC9-044E-4F14-9014-962E7D22B896/timeouts HTTP/1.1" 200 14
+INFO    2020-12-22 15:12:51,917 [environment] Running new scenario: Delete the vehicle from the options
+INFO    2020-12-22 15:12:52,687 [environment] The scenario 'Delete the vehicle from the options' has passed
